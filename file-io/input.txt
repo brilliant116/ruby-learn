@@ -1,0 +1,2 @@
+ABCs is a simple texABCABC for testing purpose.
+This is a simple text file for testing purpose.
